@@ -39,6 +39,6 @@ public class MenuManager : MonoBehaviour
         else
             PlayerPrefs.SetString("PlayerName", playerName.text);
 
-        SceneManager.LoadScene(PlayerPrefs.GetInt("Level",1));
+        SceneManager.LoadScene(1);
     }
 }
