@@ -1,8 +1,7 @@
 # Run-Race
 Run Race Clone with Unity
 
-# Gameplay Video
-[Youtube](https://youtu.be/A8a0Y6K3WwE)
+
 
 # ScreenShots
 ![ScreenShot](https://github.com/BerkEncami/Run-Race/blob/main/ScreenShots/1.png)
